@@ -19,3 +19,4 @@ Edit this Readme.md by attach link of your figma design.
 
 Paste you Figma designe here : 
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F5qWABbcP6t6R4bj6fpjGvo%2FFitness-dashboard-(Community)%3Fnode-id%3D102%253A3%26t%3DE1U0ANxSVjiffq3s-1" allowfullscreen></iframe>
