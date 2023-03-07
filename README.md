@@ -21,5 +21,4 @@ Paste you Figma designe here :
 
 <a href="https://www.figma.com/file/5qWABbcP6t6R4bj6fpjGvo/Fitness-dashboard-(Community)?node-id=102%3A3&t=E1U0ANxSVjiffq3s-1">Fixma</a>
 
-
 ![Wireframe](https://github.com/genarationth/firstsprint-fernfrn/blob/323a19b9e47a59938b3467af4252829c9c8faa0a/Fixma-card.PNG)
